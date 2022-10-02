@@ -1,5 +1,5 @@
 # El Sotano (Copy)
 
-- [] Add headers
-- [] Add routes
-- [] Main page
+- [ ] Add headers
+- [ ] Add routes
+- [ ] Main page
