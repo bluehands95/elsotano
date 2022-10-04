@@ -3,3 +3,4 @@
 - [ ] Add headers
 - [ ] Add routes
 - [ ] Main page
+- [ ] Responsive Design
